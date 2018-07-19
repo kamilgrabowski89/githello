@@ -1,8 +1,9 @@
 package projekt_git;
 
 public class TestClass {
-    void anyMethod() {
-        {
-        }
+    int myBetterMethod() {
+        return -1;
+
+
     }
 }
